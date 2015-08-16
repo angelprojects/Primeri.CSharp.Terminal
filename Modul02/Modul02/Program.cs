@@ -41,7 +41,12 @@ namespace Modul02
 			a ++; 
 			Console.WriteLine ( a );
 
+			a = 15; b = 10; 
+			Console.WriteLine ("\nСтандартно делене");
+			Console.WriteLine (a / b);	//1
 
+			Console.WriteLine ("\nХващане на остатък");
+			Console.WriteLine ( a % b);	//5, 1.5
 		}
 	}
 }
