@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.terminal\Modul02\Задачи_от_М2_В6\bin\Debug\Задачи_от_М2_В6.exe
+D:\aula\primeri.csharp.terminal\Modul02\Задачи_от_М2_В6\bin\Debug\Задачи_от_М2_В6.pdb
+D:\aula\primeri.csharp.terminal\Modul02\Задачи_от_М2_В6\obj\x86\Debug\Задачи_от_М2_В6.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\Modul02\Задачи_от_М2_В6\obj\x86\Debug\Задачи_от_М2_В6.exe
+D:\aula\primeri.csharp.terminal\Modul02\Задачи_от_М2_В6\obj\x86\Debug\Задачи_от_М2_В6.pdb

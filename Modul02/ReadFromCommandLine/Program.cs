@@ -28,6 +28,11 @@ namespace ReadFromCommandLine
 			Console.WriteLine ("Работа с Replace " + test + "\n"); 
 			Console.WriteLine ("3ти знак: " + test.Split (';') [2]);
 
+			Console.WriteLine ();
+
+		
+
+
 
 		}
 	}
